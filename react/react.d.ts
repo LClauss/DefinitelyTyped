@@ -2117,6 +2117,8 @@ declare namespace __React {
         xlinkTitle?: string;
         xlinkType?: string;
         xmlBase?: string;
+        xmlns?: string;
+        xmlnsXlink?: string;
         xmlLang?: string;
         xmlSpace?: string;
         y1?: number | string;
